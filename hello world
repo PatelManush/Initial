@@ -4,3 +4,6 @@
 main()
 {
 
+printf("Hello world");
+
+};
